@@ -3,5 +3,5 @@ export const WORDS = [
 'mypal',
 'sweet',
 'nurse',
-'alpal'
+'alpal',
 ]
